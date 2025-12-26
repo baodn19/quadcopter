@@ -23,6 +23,7 @@
 - Battery: 2S 1100mAh
 - ESC: Skywalker 15A V2 ESC
 - Motor: LANNRC 1404 4600kV Plus
+- Propeller: GEMFAN Hurricane 4024
 
 # Project Roadmap:
 1. Integrate a camera for taking video
