@@ -23,5 +23,5 @@
 - Propeller: GEMFAN Hurricane 4024
 
 # Project Roadmap:
-1. Integrate a camera for taking video
-2. Autonomous motion planning
+- [ ] Integrate a camera for taking video
+- [ ] Autonomous motion planning
