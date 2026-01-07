@@ -6,9 +6,6 @@
   <b>A DIY quadcopter for learning electronics, embedded programming, and control theory. Source: <a href="https://www.youtube.com/playlist?list=PLeuMA6tJBPKsAfRfFuGrEljpBow5hPVD4">Carbon Aeronautics</a></b>
 </p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue)](www.linkedin.com/in/bao-dinh-usf)
-[![Portfolio](https://img.shields.io/badge/Portfolio-white)](https://baodn19.weebly.com/)
-
 </div>
 
 <table>
